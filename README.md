@@ -1,33 +1,33 @@
-# Android Project 2 - *Wishlist*
+# Android Project 6 - *BitFit Part2*
 
 Submitted by: **Habeebah Muse**
 
-**Wishlist** is a wishlist app that helps the user keep track of what they want to buy.
+**BitFit Part2** is a health metrics app that allows users to track ... [TODO] 
 
-Time spent: **2** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] **User can add an item to their wishlist**
-- [x] **User can see their list of items based on previously inputted items**
+- [x] **Use at least 2 Fragments**
+- [x] **Create a new dashboard fragment where users can see a summary of their entered data**
+- [x] **Use one of the Navigation UI Views (BottomNavigation, Drawer Layout, Top Bar) to move between the fragments**
 
 The following **optional** features are implemented:
 
-- [ ] Wishlist app is 🎨 **customized** 🎨
-- [ ] User can delete an item by long pressing on the item
-- [ ] User can open an item's URL by clicking on the item
+- [ ] **Add a more advanced UI (e.g: Graphing) for tracking trends in metrics**
+- [ ] **Implement daily notifications to prompt users to fill in their data**
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/bmA3TIemUm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/YDKH75bSt8.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
