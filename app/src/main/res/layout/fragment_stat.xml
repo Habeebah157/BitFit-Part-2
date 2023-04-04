@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".StatFragment">
+
+  <LinearLayout
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:orientation="vertical"
+      android:layout_centerInParent= "true">
+
+
+      <TextView
+          android:id="@+id/maxcalories"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:textSize="20dp"
+          android:text="Max Calories" />
+
+      <TextView
+          android:id="@+id/mincalories"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:textSize="20dp"
+          android:text="Min Calories" />
+
+      <TextView
+          android:id="@+id/avgcalories"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:textSize="20dp"
+          android:text="Avg Calories" />
+
+      <TextView
+          android:id="@+id/maxcaloriesval"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:textSize="20dp"
+          android:text="" />
+
+      <TextView
+          android:id="@+id/avgcaloriesval"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:textSize="20dp"
+          android:text="" />
+
+      <TextView
+          android:id="@+id/mincaloriesval"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:textSize="20dp"
+          android:text="" />
+  </LinearLayout>
+<!--    //do i need to create a new xml for -->
+</FrameLayout>
